@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "fb8c25c449cb737383db",
-    "url": "https://oussama9145.github.io/csb-pbshu8/static/css/main.b75fd826.chunk.css"
+    "revision": "77911e34ad7617aeaa94",
+    "url": "https://oussama9145.github.io/csb-pbshu8/static/css/main.15b68894.chunk.css"
   },
   {
-    "revision": "fb8c25c449cb737383db",
-    "url": "https://oussama9145.github.io/csb-pbshu8/static/js/main.fb8c25c4.chunk.js"
+    "revision": "77911e34ad7617aeaa94",
+    "url": "https://oussama9145.github.io/csb-pbshu8/static/js/main.77911e34.chunk.js"
   },
   {
     "revision": "d02293dd3576e08000e2",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "https://oussama9145.github.io/csb-pbshu8/static/js/runtime~main.477fe2e9.js"
   },
   {
-    "revision": "d08b29672cb2f07f623508db7960217d",
+    "revision": "48603d43bc37c44c846310fb84be4c7d",
     "url": "https://oussama9145.github.io/csb-pbshu8/index.html"
   }
 ];
